@@ -1,5 +1,5 @@
-# GeneratedTypesaveDynamicObjectAdapter-Builder
-How to generate a typesave DynamicObjectAdapter-Builder per AnnotationProcessing. 
+# GeneratedTypesafeDynamicObjectAdapter-Builder
+How to generate a typesafe DynamicObjectAdapter-Builder per AnnotationProcessing. 
 (a detailed description will come soon.....  follow me  [@SvenRuppert](https://twitter.com/SvenRuppert) )
 an german version you could find under [GitBook - JavaFundamentals - GeneratedTypesaveDynamicObjectAdapter-Builder](http://sven-ruppert.gitbooks.io/kurse/content/java-core/chapter-java-core-pattern-creational-builder-dynamic-object-adapter-builder-generated.html)
 
